@@ -11,7 +11,7 @@ Use bullet points for easy readability.
 
  specific about my  project.
 
-Technologies Used
+programming language
 Frontend: HTML, CSS.
 
 Backend: Javascript. 
