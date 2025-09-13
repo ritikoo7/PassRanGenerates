@@ -1,5 +1,5 @@
 Project Title
-Paaword Random Generator
+Paasword Random Generator
 
 Description
 I have created a random password generation app using HTML, CSS, and JavaScript.
